@@ -1,4 +1,4 @@
-markdown# Semantic Search Project
+
 
 A FastAPI-based semantic search engine for permit documents using OpenAI embeddings and ChromaDB vector storage. This project enables intelligent search through permit data using natural language queries with advanced filtering capabilities.
 
