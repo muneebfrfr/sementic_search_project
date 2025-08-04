@@ -1,0 +1,4602 @@
+[
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-074499 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation for lawn",
+      "status": {
+        "current": "Active",
+        "date": "2025-07-16T00:00:00+00:00",
+        "completed": null,
+        "expires": "2026-01-12T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-07T00:00:00+00:00",
+        "issued": "2025-06-18T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13534570",
+      "master_permit": "13487648",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13534570"
+    },
+    "address": {
+      "line1": "13104 GEARY DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78652",
+      "council_district": "5",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0451150901",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.11510451,
+      "longitude": -97.81408439
+    },
+    "context_summary": "Residential plumbing permit issued on June 18, 2025, for irrigation of lawn at 13104 GEARY DR, Austin, under jurisdiction AUSTIN LTD, expiring on January 12, 2026."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-067096 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation Installation\n\n***REF:2024 061867 BP***",
+      "status": {
+        "current": "Final",
+        "date": "2025-06-18T00:00:00+00:00",
+        "completed": "2025-06-18T00:00:00+00:00",
+        "expires": "2025-06-18T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-03-26T00:00:00+00:00",
+        "issued": "2025-06-03T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13526145",
+      "master_permit": "13330505",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13526145"
+    },
+    "address": {
+      "line1": "8518 DONGAN DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0340132007",
+      "legal_description": "QUAD PARK 3B-3A BLK B LOT 11"
+    },
+    "location": {
+      "latitude": 30.14094364,
+      "longitude": -97.71491452
+    },
+    "context_summary": "Residential plumbing permit issued on June 3, 2025, for irrigation installation at 8518 DONGAN DR, Austin, under jurisdiction AUSTIN LTD, with final status on June 18, 2025, and linked to project ID 13526145."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-063794 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-06-23T00:00:00+00:00",
+        "completed": "2025-06-23T00:00:00+00:00",
+        "expires": "2025-06-23T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-07T00:00:00+00:00",
+        "issued": "2025-05-28T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13522331",
+      "master_permit": "13457448",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13522331"
+    },
+    "address": {
+      "line1": "1702 KIT CIR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78758",
+      "council_district": "7",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0258180629",
+      "legal_description": "CEARLEY COMMUNITY SUBD BLK D LOT 15"
+    },
+    "location": {
+      "latitude": 30.40531879,
+      "longitude": -97.68931742
+    },
+    "context_summary": "Residential plumbing permit issued on May 28, 2025, for installing a new irrigation system at 1702 KIT CIR, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a final status as of June 23, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-057332 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Projecting",
+      "description": "ATX Tower - Parking P",
+      "status": {
+        "current": "Active",
+        "date": "2025-05-29T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-25T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-05-14T00:00:00+00:00",
+        "issued": "2025-05-27T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13518244",
+      "master_permit": "13514759",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13518244"
+    },
+    "address": {
+      "line1": "321 W 6TH ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78701",
+      "council_district": "9",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0206011302",
+      "legal_description": "LOT A AMERICAN RESUB NO 1 (TOTAL SQ FT 14944)"
+    },
+    "location": {
+      "latitude": 30.26867853,
+      "longitude": -97.74596507
+    },
+    "context_summary": "Commercial electrical permit issued on May 27, 2025, for projecting signage at 321 W 6TH ST, Austin, under jurisdiction AUSTIN FULL PURPOSE, with an expiration date of November 25, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-063710 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Irrigation",
+      "description": "We are installing drip tubing and SCH 40 Pipe & MP Rotars/Sprinklers as mapped out in the plan",
+      "status": {
+        "current": "Active",
+        "date": "2025-05-27T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-23T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-05-22T00:00:00+00:00",
+        "issued": "2025-05-27T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13522223",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13522223"
+    },
+    "address": {
+      "line1": "1903 KEILBAR LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78745",
+      "council_district": "5",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0422150801",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.19490364,
+      "longitude": -97.80961957
+    },
+    "context_summary": "Commercial plumbing permit issued on May 27, 2025, for the installation of irrigation drip tubing and sprinklers at 1903 KEILBAR LN, Austin, under jurisdiction AUSTIN FULL PURPOSE, expiring on November 23, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-063893 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "New Install",
+      "status": {
+        "current": "Final",
+        "date": "2025-07-31T00:00:00+00:00",
+        "completed": "2025-07-31T00:00:00+00:00",
+        "expires": "2025-07-31T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-05-22T00:00:00+00:00",
+        "issued": "2025-05-27T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13522437",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13522437"
+    },
+    "address": {
+      "line1": "7009 CREIGHTON LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78723",
+      "council_district": "1",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0226230213",
+      "legal_description": "LOT 34 UNIVERSITY HILLS WEST"
+    },
+    "location": {
+      "latitude": 30.32037757,
+      "longitude": -97.67662104
+    },
+    "context_summary": "Residential plumbing permit issued for a new irrigation installation at 7009 CREIGHTON LN, Austin, under jurisdiction AUSTIN FULL PURPOSE, applied on May 22, 2025, with issuance on May 27, 2025, and expiring on July 31, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-060965 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation for the front and back yards at 804 Ethel Street",
+      "status": {
+        "current": "Final",
+        "date": "2025-06-09T00:00:00+00:00",
+        "completed": "2025-06-09T00:00:00+00:00",
+        "expires": "2025-06-09T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-02-05T00:00:00+00:00",
+        "issued": "2025-05-26T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13519053",
+      "master_permit": "13327014",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13519053"
+    },
+    "address": {
+      "line1": "804 ETHEL ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78704",
+      "council_district": "9",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0103030738",
+      "legal_description": "LOT 4 JENKINS R L"
+    },
+    "location": {
+      "latitude": 30.25867633,
+      "longitude": -97.76335726
+    },
+    "context_summary": "Residential plumbing permit issued on May 26, 2025, for irrigation of the front and back yards at 804 Ethel Street, Austin, under jurisdiction AUSTIN FULL PURPOSE, with final status recorded on June 9, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-061082 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "install an irrigation system to permit address",
+      "status": {
+        "current": "Final",
+        "date": "2025-06-09T00:00:00+00:00",
+        "completed": "2025-06-09T00:00:00+00:00",
+        "expires": "2025-06-09T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-12-06T00:00:00+00:00",
+        "issued": "2025-05-20T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13519184",
+      "master_permit": "13459693",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13519184"
+    },
+    "address": {
+      "line1": "9712 PETRICHOR BLVD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78653",
+      "council_district": "1",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0217651020",
+      "legal_description": "WHISPER VALLEY VILLAGE 1 PHS 3 BLK M LOT 4"
+    },
+    "location": {
+      "latitude": 30.29355067,
+      "longitude": -97.55014739
+    },
+    "context_summary": "Residential plumbing permit issued on May 20, 2025, for installing an irrigation system at 9712 PETRICHOR BLVD, Austin, under jurisdiction AUSTIN LTD, with a completion date of June 9, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-056264 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Freestanding",
+      "description": "Amplify Crediit Union sign",
+      "status": {
+        "current": "Active",
+        "date": "2025-05-20T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-16T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-05-14T00:00:00+00:00",
+        "issued": "2025-05-20T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13518341",
+      "master_permit": "13513530",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13518341"
+    },
+    "address": {
+      "line1": "13050 POND SPRINGS RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78729",
+      "council_district": "6",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "R401724",
+      "legal_description": "S7476 - Ibm / Tress Sonesta Sub"
+    },
+    "location": {
+      "latitude": 30.4418394,
+      "longitude": -97.77431835
+    },
+    "context_summary": "Commercial electrical permit issued on May 20, 2025, for a freestanding sign for Amplify Credit Union at 13050 POND SPRINGS RD, Austin, under jurisdiction AUSTIN FULL PURPOSE, set to expire on November 16, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-060817 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "Install one illuminated wall sign for AT&T",
+      "status": {
+        "current": "Active",
+        "date": "2025-05-16T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-12T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-05-16T00:00:00+00:00",
+        "issued": "2025-05-16T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13519364",
+      "master_permit": "13518878",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13519364"
+    },
+    "address": {
+      "line1": "6317 FM 2244 RD BLDG 3 UNIT 310",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78746",
+      "council_district": "8",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0117230503",
+      "legal_description": "LOT 3 BLK A BEE CAVE WEST SUBD"
+    },
+    "location": {
+      "latitude": 30.29636981,
+      "longitude": -97.83218847
+    },
+    "context_summary": "Commercial electrical permit issued on May 16, 2025, for the installation of an illuminated wall sign for AT&T at 6317 FM 2244 RD BLDG 3 UNIT 310, Austin, under jurisdiction AUSTIN LTD, expiring on November 12, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-021001 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Irrigation",
+      "description": "New irrigation installation - 2025-003962 W/SP-2022-0540C",
+      "status": {
+        "current": "Active",
+        "date": "2025-05-16T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-12T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-02-21T00:00:00+00:00",
+        "issued": "2025-05-16T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13472697",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13472697"
+    },
+    "address": {
+      "line1": "6901 E HOWARD LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78653",
+      "council_district": "1",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0247480604",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.37272485,
+      "longitude": -97.59587494
+    },
+    "context_summary": "Commercial plumbing permit issued on May 16, 2025, for new irrigation installation at 6901 E HOWARD LN, Austin, under jurisdiction AUSTIN FULL PURPOSE, expiring on November 12, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-056708 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Irrigation",
+      "description": "Landscape and Irrigation\nREF: 2023-116800 W",
+      "status": {
+        "current": "Active",
+        "date": "2025-05-14T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-10T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-05-07T00:00:00+00:00",
+        "issued": "2025-05-14T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13514046",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13514046"
+    },
+    "address": {
+      "line1": "5900 S CONGRESS AVE",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78745",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0418070407",
+      "legal_description": "ABS 6 SUR 19 CANNON W ACR 3.2853"
+    },
+    "location": {
+      "latitude": 30.20257474,
+      "longitude": -97.7759636
+    },
+    "context_summary": "Commercial plumbing permit issued on May 14, 2025, for landscape and irrigation work at 5900 S CONGRESS AVE, Austin, under jurisdiction AUSTIN FULL PURPOSE, expiring on November 10, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-057827 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "ETJ  Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-05-13T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-09T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-05-09T00:00:00+00:00",
+        "issued": "2025-05-13T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13515387",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13515387"
+    },
+    "address": {
+      "line1": "2611 LEAFY LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40008809,
+      "longitude": -97.62499352
+    },
+    "context_summary": "Residential plumbing permit issued on May 13, 2025, for the installation of new irrigation at 2611 LEAFY LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on November 9, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-049629 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Irrigation",
+      "description": "Install irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-04-29T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-10-26T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-04-22T00:00:00+00:00",
+        "issued": "2025-04-29T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13505830",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13505830"
+    },
+    "address": {
+      "line1": "3900 BERKMAN DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78723",
+      "council_district": "9",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0215161508",
+      "legal_description": "LOT 1 BLK 59A BERKMAN TOWER VIEW SUBD"
+    },
+    "location": {
+      "latitude": 30.2912419,
+      "longitude": -97.69936421
+    },
+    "context_summary": "Commercial plumbing permit issued on April 29, 2025, for the installation of irrigation at 3900 BERKMAN DR, Austin, under jurisdiction AUSTIN FULL PURPOSE, expiring on October 26, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-050045 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-06-23T00:00:00+00:00",
+        "completed": "2025-06-23T00:00:00+00:00",
+        "expires": "2025-06-23T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-04-23T00:00:00+00:00",
+        "issued": "2025-04-25T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13506285",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13506285"
+    },
+    "address": {
+      "line1": "14013 EDNA MAXINE WALK",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78617",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0328480518",
+      "legal_description": "LONGVIEW PHS 1 BLK 30 LOT 14"
+    },
+    "location": {
+      "latitude": 30.17048439,
+      "longitude": -97.60261042
+    },
+    "context_summary": "Residential plumbing permit issued on April 25, 2025, for installing a new irrigation system at 14013 EDNA MAXINE WALK, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status as of June 23, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-048069 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Final",
+        "date": "2025-07-02T00:00:00+00:00",
+        "completed": "2025-07-02T00:00:00+00:00",
+        "expires": "2025-07-02T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-04-21T00:00:00+00:00",
+        "issued": "2025-04-24T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13504116",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13504116"
+    },
+    "address": {
+      "line1": "13701 OLYMPIA DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40170216,
+      "longitude": -97.62523375
+    },
+    "context_summary": "Residential plumbing permit issued on April 24, 2025, for the installation of new irrigation at 13701 OLYMPIA DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a status marked as final on July 2, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-047555 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Sprinkler System",
+      "status": {
+        "current": "Final",
+        "date": "2025-06-13T00:00:00+00:00",
+        "completed": "2025-06-13T00:00:00+00:00",
+        "expires": "2025-06-13T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-04-18T00:00:00+00:00",
+        "issued": "2025-04-22T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13503542",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13503542"
+    },
+    "address": {
+      "line1": "9012 THE RAVINE WAY",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0338130911",
+      "legal_description": "PROSPECT PARK PHS 1 BLK A LOT 34"
+    },
+    "location": {
+      "latitude": 30.14687453,
+      "longitude": -97.70933295
+    },
+    "context_summary": "Residential plumbing permit issued in April 2025 for the installation of a sprinkler system at 9012 THE RAVINE WAY, Austin, under jurisdiction AUSTIN LTD, with the application date on April 18, 2025, and the final inspection completed on June 13, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-136407 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "new irrigation installation",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-30T00:00:00+00:00",
+        "completed": "2025-04-30T00:00:00+00:00",
+        "expires": "2025-04-30T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-28T00:00:00+00:00",
+        "issued": "2025-04-14T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13413328",
+      "master_permit": "13413223",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13413328"
+    },
+    "address": {
+      "line1": "15213 PURPLE DROP CV",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78617",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0338491634",
+      "legal_description": "SUN CHASE SOUTH SEC 8 BLK M LOT 29"
+    },
+    "location": {
+      "latitude": 30.14555662,
+      "longitude": -97.59728607
+    },
+    "context_summary": "Residential plumbing permit issued for a new irrigation installation at 15213 PURPLE DROP CV, Austin, under jurisdiction AUSTIN LTD, applied on September 28, 2024, and issued on April 14, 2025, with a final status as of April 30, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-037305 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Irrigation",
+      "description": "Irrigation system",
+      "status": {
+        "current": "Active",
+        "date": "2025-03-31T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-09-27T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-28T00:00:00+00:00",
+        "issued": "2025-03-31T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13491821",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13491821"
+    },
+    "address": {
+      "line1": "5333 E PARMER LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78754",
+      "council_district": "1",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0242410503",
+      "legal_description": "LOT 1 HARRIS BRANCH TRACT E33"
+    },
+    "location": {
+      "latitude": 30.36976499,
+      "longitude": -97.62097299
+    },
+    "context_summary": "Commercial plumbing permit issued on March 31, 2025, for an irrigation system at 5333 E PARMER LN, Austin, under jurisdiction AUSTIN FULL PURPOSE, expiring on September 27, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-035875 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-05-13T00:00:00+00:00",
+        "completed": "2025-05-13T00:00:00+00:00",
+        "expires": "2025-05-13T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-08-20T00:00:00+00:00",
+        "issued": "2025-03-28T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13490149",
+      "master_permit": "13424629",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13490149"
+    },
+    "address": {
+      "line1": "16909 VERNAL RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78653",
+      "council_district": "1",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0219650303",
+      "legal_description": "WHISPER VALLEY VILLAGE 1 PHS 4 BLK S LOT 19"
+    },
+    "location": {
+      "latitude": 30.29619598,
+      "longitude": -97.54999187
+    },
+    "context_summary": "Residential plumbing permit issued on March 28, 2025, for the installation of a new irrigation system at 16909 VERNAL RD, Austin, under jurisdiction AUSTIN LTD, with a final status dated May 13, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-035904 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-25T00:00:00+00:00",
+        "completed": "2025-04-25T00:00:00+00:00",
+        "expires": "2025-04-25T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-26T00:00:00+00:00",
+        "issued": "2025-03-27T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13490178",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13490178"
+    },
+    "address": {
+      "line1": "2710 TOTLEY RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254380414",
+      "legal_description": "HOWARD LANE PHS 1 BLK D LOT 15"
+    },
+    "location": {
+      "latitude": 30.39497933,
+      "longitude": -97.62584773
+    },
+    "context_summary": "Residential plumbing permit issued on March 27, 2025, for the installation of an irrigation system at 2710 TOTLEY RD, AUSTIN, under jurisdiction AUSTIN 2 MILE ETJ, finalized on April 25, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-035147 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-17T00:00:00+00:00",
+        "completed": "2025-04-17T00:00:00+00:00",
+        "expires": "2025-04-17T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-25T00:00:00+00:00",
+        "issued": "2025-03-27T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13489238",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13489238"
+    },
+    "address": {
+      "line1": "2711 PARAGON FOX DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254380405",
+      "legal_description": "HOWARD LANE PHS 1 BLK D LOT 24"
+    },
+    "location": {
+      "latitude": 30.39595357,
+      "longitude": -97.62522388
+    },
+    "context_summary": "Residential plumbing permit issued on March 27, 2025, for installing an irrigation system at 2711 PARAGON FOX DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a final status dated April 17, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-035911 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-05-08T00:00:00+00:00",
+        "completed": "2025-05-08T00:00:00+00:00",
+        "expires": "2025-05-08T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-26T00:00:00+00:00",
+        "issued": "2025-03-27T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13490185",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13490185"
+    },
+    "address": {
+      "line1": "2507 TOTLEY RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254380304",
+      "legal_description": "HOWARD LANE PHS 1 BLK A LOT 5"
+    },
+    "location": {
+      "latitude": 30.39544358,
+      "longitude": -97.62777644
+    },
+    "context_summary": "Residential plumbing permit issued on March 27, 2025, for the installation of an irrigation system at 2507 TOTLEY RD, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status as of May 8, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-035046 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation Installation",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-10T00:00:00+00:00",
+        "completed": "2025-04-10T00:00:00+00:00",
+        "expires": "2025-04-10T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-07-24T00:00:00+00:00",
+        "issued": "2025-03-26T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13489132",
+      "master_permit": "13378371",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13489132"
+    },
+    "address": {
+      "line1": "8506 DONGAN DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0340131871",
+      "legal_description": "QUAD PARK 3B-3A BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.14146791,
+      "longitude": -97.7141915
+    },
+    "context_summary": "Residential plumbing permit issued on March 26, 2025, for irrigation installation at 8506 DONGAN DR, Austin, under jurisdiction AUSTIN LTD, finalized on April 10, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "DS",
+      "type_description": "Driveway / Sidewalks",
+      "number": "2025-017046 DS",
+      "class": "Res. Driveway",
+      "class_mapped": "Residential",
+      "work_class": "Demo",
+      "description": "Construct new driveway approach of 14 FT",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-11T00:00:00+00:00",
+        "completed": "2025-04-11T00:00:00+00:00",
+        "expires": "2025-04-11T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-02-11T00:00:00+00:00",
+        "issued": "2025-03-25T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13468257",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13468257"
+    },
+    "address": {
+      "line1": "4002 EDGEMONT DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78731",
+      "council_district": "10",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0126050204",
+      "legal_description": "LOT 3 BLK Q BALCONES PARK ADDN SEC 6"
+    },
+    "location": {
+      "latitude": 30.32158674,
+      "longitude": -97.76950903
+    },
+    "context_summary": "Residential driveway permit issued on March 25, 2025, for the construction of a new 14 FT driveway approach at 4002 EDGEMONT DR, Austin, under jurisdiction AUSTIN FULL PURPOSE, finalized on April 11, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-034558 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "New Irrigation installation",
+      "status": {
+        "current": "Active",
+        "date": "2025-03-25T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-09-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-24T00:00:00+00:00",
+        "issued": "2025-03-25T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13488536",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13488536"
+    },
+    "address": {
+      "line1": "5802 CHERRY CREEK DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78745",
+      "council_district": "5",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0412150461",
+      "legal_description": "LOT 8 BLK S CHERRY CREEK PHS II SEC 3"
+    },
+    "location": {
+      "latitude": 30.21968104,
+      "longitude": -97.80990325
+    },
+    "context_summary": "Residential plumbing permit issued on March 25, 2025, for new irrigation installation at 5802 CHERRY CREEK DR, Austin, under jurisdiction AUSTIN FULL PURPOSE, expiring on September 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-033047 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-01T00:00:00+00:00",
+        "completed": "2025-04-01T00:00:00+00:00",
+        "expires": "2025-04-01T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-10-28T00:00:00+00:00",
+        "issued": "2025-03-24T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13486719",
+      "master_permit": "13446457",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13486719"
+    },
+    "address": {
+      "line1": "8602 BASIL HAYDEN LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0338060603",
+      "legal_description": "SKYLINE 2D PHS 1 BLK F LOT 2"
+    },
+    "location": {
+      "latitude": 30.14818854,
+      "longitude": -97.73031029
+    },
+    "context_summary": "Residential plumbing permit issued in March 2025 for the installation of an irrigation system at 8602 BASIL HAYDEN LN, Austin, under jurisdiction AUSTIN LTD, with a completion status marked as final and expiring on the same date."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-033413 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "Matador Apartments - East",
+      "status": {
+        "current": "Final",
+        "date": "2025-05-22T00:00:00+00:00",
+        "completed": "2025-05-22T00:00:00+00:00",
+        "expires": "2025-05-22T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-21T00:00:00+00:00",
+        "issued": "2025-03-21T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13487672",
+      "master_permit": "13487179",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13487672"
+    },
+    "address": {
+      "line1": "5900 S CONGRESS AVE",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78745",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0418070407",
+      "legal_description": "ABS 6 SUR 19 CANNON W ACR 3.2853"
+    },
+    "location": {
+      "latitude": 30.20257474,
+      "longitude": -97.7759636
+    },
+    "context_summary": "Commercial electrical permit issued in March 2025 for wall signage at 5900 S CONGRESS AVE, Austin, under jurisdiction AUSTIN FULL PURPOSE, marked as final on May 22, 2025, and linked to project ID 13487672."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-033427 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "Matador Apartments - South",
+      "status": {
+        "current": "Final",
+        "date": "2025-05-22T00:00:00+00:00",
+        "completed": "2025-05-22T00:00:00+00:00",
+        "expires": "2025-05-22T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-21T00:00:00+00:00",
+        "issued": "2025-03-21T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13487673",
+      "master_permit": "13487194",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13487673"
+    },
+    "address": {
+      "line1": "5900 S CONGRESS AVE",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78745",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0418070407",
+      "legal_description": "ABS 6 SUR 19 CANNON W ACR 3.2853"
+    },
+    "location": {
+      "latitude": 30.20257474,
+      "longitude": -97.7759636
+    },
+    "context_summary": "Commercial electrical permit issued for a wall sign at Matador Apartments - South, located at 5900 S CONGRESS AVE, Austin, under jurisdiction AUSTIN FULL PURPOSE, applied on March 21, 2025, and completed on May 22, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-029848 EP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Homebuilder Loop",
+      "description": "T-Pole (Ref 2025-015206 BP)",
+      "status": {
+        "current": "Final",
+        "date": "2025-03-21T00:00:00+00:00",
+        "completed": "2025-03-21T00:00:00+00:00",
+        "expires": "2025-03-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-12T00:00:00+00:00",
+        "issued": "2025-03-17T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13482895",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13482895"
+    },
+    "address": {
+      "line1": "9011 HAMADRYAS DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": null,
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.14500158,
+      "longitude": -97.71027302
+    },
+    "context_summary": "Residential electrical permit issued on March 17, 2025, for T-Pole installation at 9011 HAMADRYAS DR, Austin, under jurisdiction AUSTIN LTD, with a final status as of March 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-024616 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-03-24T00:00:00+00:00",
+        "completed": "2025-03-24T00:00:00+00:00",
+        "expires": "2025-03-24T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2023-09-11T00:00:00+00:00",
+        "issued": "2025-03-13T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13476850",
+      "master_permit": "13240867",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13476850"
+    },
+    "address": {
+      "line1": "11131 GOLF CV",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": "5",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0445070723",
+      "legal_description": "LOT 24 BLK D ONION CREEK ADDN"
+    },
+    "location": {
+      "latitude": 30.12995876,
+      "longitude": -97.77885578
+    },
+    "context_summary": "Residential plumbing permit issued on March 13, 2025, for the installation of an irrigation system at 11131 GOLF CV, AUSTIN, under jurisdiction AUSTIN FULL PURPOSE, and marked as final on March 24, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-029288 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install sprinkler system",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-25T00:00:00+00:00",
+        "completed": "2025-04-25T00:00:00+00:00",
+        "expires": "2025-04-25T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-11T00:00:00+00:00",
+        "issued": "2025-03-13T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13482259",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13482259"
+    },
+    "address": {
+      "line1": "15600 NOLA CT",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0274281601",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.44868506,
+      "longitude": -97.65684592
+    },
+    "context_summary": "Residential plumbing permit issued on March 13, 2025, for the installation of a sprinkler system at 15600 NOLA CT, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion status dated April 25, 2025, and an expiration on the same day."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-026142 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-07T00:00:00+00:00",
+        "completed": "2025-04-07T00:00:00+00:00",
+        "expires": "2025-04-07T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-04T00:00:00+00:00",
+        "issued": "2025-03-06T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13478538",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13478538"
+    },
+    "address": {
+      "line1": "13300 RIDING DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254380206",
+      "legal_description": "HOWARD LANE PHS 1 BLK E LOT 1"
+    },
+    "location": {
+      "latitude": 30.39571799,
+      "longitude": -97.62774653
+    },
+    "context_summary": "Residential plumbing permit issued on March 6, 2025, for installing an irrigation system at 13300 RIDING DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a final status and expiration date of April 7, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-026580 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation system installation.",
+      "status": {
+        "current": "Active",
+        "date": "2025-03-25T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-09-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-03-05T00:00:00+00:00",
+        "issued": "2025-03-06T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13479035",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13479035"
+    },
+    "address": {
+      "line1": "3305 SANDERLING TRL",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78746",
+      "council_district": "8",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0107131202",
+      "legal_description": "LOT 2 BLK C WOODHAVEN II"
+    },
+    "location": {
+      "latitude": 30.27289027,
+      "longitude": -97.80275498
+    },
+    "context_summary": "Residential plumbing permit issued on March 6, 2025, for irrigation system installation at 3305 SANDERLING TRL, Austin, under jurisdiction AUSTIN FULL PURPOSE, with an expiration date of September 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-018467 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-26T00:00:00+00:00",
+        "completed": "2025-02-26T00:00:00+00:00",
+        "expires": "2025-02-26T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-02-14T00:00:00+00:00",
+        "issued": "2025-02-24T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13469855",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13469855"
+    },
+    "address": {
+      "line1": "13905 AUSARINA TRCE",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78617",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0328480408",
+      "legal_description": "LONGVIEW PHS 1 BLK 29 LOT 8"
+    },
+    "location": {
+      "latitude": 30.1714849,
+      "longitude": -97.60283855
+    },
+    "context_summary": "Residential plumbing permit issued on February 24, 2025, for the installation of a new irrigation system at 13905 AUSARINA TRCE, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion date of February 26, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-003700 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "C3-Texaco Star-305713",
+      "status": {
+        "current": "Active",
+        "date": "2025-07-11T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-11-24T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-23T00:00:00+00:00",
+        "issued": "2025-02-24T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13458629",
+      "master_permit": "13453414",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13458629"
+    },
+    "address": {
+      "line1": "7110 OLD BEE CAVES RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78735",
+      "council_district": "8",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0406380504",
+      "legal_description": "ABS 28 SUR 93 ANDERSON T ACR 5.0"
+    },
+    "location": {
+      "latitude": 30.23932601,
+      "longitude": -97.8743715
+    },
+    "context_summary": "Commercial electrical sign permit issued on February 24, 2025, for wall signage at 7110 OLD BEE CAVES RD, Austin, under jurisdiction AUSTIN FULL PURPOSE, with an expiration date of November 24, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2025-003702 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "C4-Texaco-305713",
+      "status": {
+        "current": "Withdrawn",
+        "date": "2025-07-15T00:00:00+00:00",
+        "completed": "2025-07-15T00:00:00+00:00",
+        "expires": "2025-11-24T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-23T00:00:00+00:00",
+        "issued": "2025-02-24T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13458631",
+      "master_permit": "13453416",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13458631"
+    },
+    "address": {
+      "line1": "7110 OLD BEE CAVES RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78735",
+      "council_district": "8",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0406380504",
+      "legal_description": "ABS 28 SUR 93 ANDERSON T ACR 5.0"
+    },
+    "location": {
+      "latitude": 30.23932601,
+      "longitude": -97.8743715
+    },
+    "context_summary": "Commercial electrical permit for a wall sign issued on February 24, 2025, for C4-Texaco at 7110 OLD BEE CAVES RD, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a status of Withdrawn and set to expire on November 24, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "DS",
+      "type_description": "Driveway / Sidewalks",
+      "number": "2025-012212 DS",
+      "class": "Res. Driveway",
+      "class_mapped": "Residential",
+      "work_class": "New",
+      "description": "Construct new driveway approach of 22.7 FT\n\n***No sidewalk inspection per BP",
+      "status": {
+        "current": "Active",
+        "date": "2025-07-31T00:00:00+00:00",
+        "completed": null,
+        "expires": "2026-01-27T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-05-13T00:00:00+00:00",
+        "issued": "2025-02-18T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13462779",
+      "master_permit": "13352007",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13462779"
+    },
+    "address": {
+      "line1": "1400-1508 CEDAR AVE",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": null,
+      "council_district": null,
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": null,
+      "legal_description": null
+    },
+    "location": {
+      "latitude": null,
+      "longitude": null
+    },
+    "context_summary": "Residential driveway permit issued on February 18, 2025, for constructing a new driveway approach at 1400-1508 CEDAR AVE, Austin, under jurisdiction AUSTIN FULL PURPOSE, with an expiration date of January 27, 2026."
+  },
+  {
+    "permit": {
+      "type_code": "DS",
+      "type_description": "Driveway / Sidewalks",
+      "number": "2025-012432 DS",
+      "class": "Res. Driveway",
+      "class_mapped": "Residential",
+      "work_class": "New",
+      "description": "Construct new driveway approach of 8 FT on the alley\n\n***No sidewalk inspection per BP",
+      "status": {
+        "current": "Final",
+        "date": "2025-03-26T00:00:00+00:00",
+        "completed": "2025-03-26T00:00:00+00:00",
+        "expires": "2025-03-26T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-03-14T00:00:00+00:00",
+        "issued": "2025-02-14T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13463023",
+      "master_permit": "13323407",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13463023"
+    },
+    "address": {
+      "line1": "1900-1915 WILLOW ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": null,
+      "council_district": null,
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": null,
+      "legal_description": null
+    },
+    "location": {
+      "latitude": null,
+      "longitude": null
+    },
+    "context_summary": "Residential driveway permit issued on February 14, 2025, for constructing a new driveway approach of 8 FT at 1900-1915 WILLOW ST, Austin, under jurisdiction AUSTIN FULL PURPOSE, with final status recorded on March 26, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-014680 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "SPRINKLER SYSTEM",
+      "status": {
+        "current": "Final",
+        "date": "2025-03-14T00:00:00+00:00",
+        "completed": "2025-03-14T00:00:00+00:00",
+        "expires": "2025-03-14T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-02-06T00:00:00+00:00",
+        "issued": "2025-02-12T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13465587",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13465587"
+    },
+    "address": {
+      "line1": "1411 IBERVILLE DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0274281601",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.4486362,
+      "longitude": -97.65727266
+    },
+    "context_summary": "Residential plumbing permit issued on February 12, 2025, for a sprinkler system installation at 1411 IBERVILLE DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status and expiration on March 14, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-014054 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-03-17T00:00:00+00:00",
+        "completed": "2025-03-17T00:00:00+00:00",
+        "expires": "2025-03-17T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-02-05T00:00:00+00:00",
+        "issued": "2025-02-11T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13464858",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13464858"
+    },
+    "address": {
+      "line1": "2816 STEELS RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254402038",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.39484571,
+      "longitude": -97.62368765
+    },
+    "context_summary": "Residential plumbing permit issued on February 11, 2025, for the installation of an irrigation system at 2816 STEELS RD, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status on March 17, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-012001 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation for Lawn",
+      "status": {
+        "current": "Active",
+        "date": "2025-03-25T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-08-09T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-30T00:00:00+00:00",
+        "issued": "2025-02-10T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13462559",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13462559"
+    },
+    "address": {
+      "line1": "11509 MURANO DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0447071039",
+      "legal_description": "WEST BELLA FORTUNA PHS 1 (A SMALL LT SUBD) BLK L LOT 71"
+    },
+    "location": {
+      "latitude": 30.12737136,
+      "longitude": -97.78081615
+    },
+    "context_summary": "Residential plumbing permit issued on February 10, 2025, for lawn irrigation at 11509 MURANO DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on August 9, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-012494 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation Installation",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-15T00:00:00+00:00",
+        "completed": "2025-04-15T00:00:00+00:00",
+        "expires": "2025-04-15T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-03-21T00:00:00+00:00",
+        "issued": "2025-02-10T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13463085",
+      "master_permit": "13337350",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13463085"
+    },
+    "address": {
+      "line1": "8512 DONGAN DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0340132004",
+      "legal_description": "QUAD PARK 3B-3A BLK B LOT 14"
+    },
+    "location": {
+      "latitude": 30.14109838,
+      "longitude": -97.7148154
+    },
+    "context_summary": "Residential plumbing permit issued on February 10, 2025, for irrigation installation at 8512 DONGAN DR, Austin, under jurisdiction AUSTIN LTD, with a completion date of April 15, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-010375 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation\nref: 2023-130154 W",
+      "status": {
+        "current": "Active",
+        "date": "2025-07-09T00:00:00+00:00",
+        "completed": null,
+        "expires": "2026-01-05T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-28T00:00:00+00:00",
+        "issued": "2025-02-07T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13460767",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13460767"
+    },
+    "address": {
+      "line1": "13900 OLYMPIA DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40287637,
+      "longitude": -97.62496278
+    },
+    "context_summary": "Residential plumbing permit issued on February 7, 2025, for the installation of new irrigation at 13900 OLYMPIA DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on January 5, 2026."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-009029 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-03-10T00:00:00+00:00",
+        "completed": "2025-03-10T00:00:00+00:00",
+        "expires": "2025-03-10T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-24T00:00:00+00:00",
+        "issued": "2025-02-03T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13459201",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13459201"
+    },
+    "address": {
+      "line1": "2712 PARAGON FOX DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254380503",
+      "legal_description": "HOWARD LANE PHS 1 BLK F LOT 16"
+    },
+    "location": {
+      "latitude": 30.39628397,
+      "longitude": -97.62484973
+    },
+    "context_summary": "Residential plumbing permit issued on February 3, 2025, for the installation of an irrigation system at 2712 PARAGON FOX DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a status of final and expiration on March 10, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-008820 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "irrigation install",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-26T00:00:00+00:00",
+        "completed": "2025-02-26T00:00:00+00:00",
+        "expires": "2025-02-26T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-23T00:00:00+00:00",
+        "issued": "2025-01-31T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13458973",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13458973"
+    },
+    "address": {
+      "line1": "6810 ROUNDED PEBBLE LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78610",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0455050702",
+      "legal_description": "TURNERS CROSSING NORTH PHS 2 BLK H LOT 4"
+    },
+    "location": {
+      "latitude": 30.10779141,
+      "longitude": -97.77527219
+    },
+    "context_summary": "Residential plumbing permit issued on January 31, 2025, for irrigation installation at 6810 ROUNDED PEBBLE LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion date of February 26, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-007698 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-25T00:00:00+00:00",
+        "completed": "2025-02-25T00:00:00+00:00",
+        "expires": "2025-02-25T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-22T00:00:00+00:00",
+        "issued": "2025-01-28T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13457753",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13457753"
+    },
+    "address": {
+      "line1": "2611 TOTLEY RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254380310",
+      "legal_description": "HOWARD LANE PHS 1 BLK A LOT 11"
+    },
+    "location": {
+      "latitude": 30.39508607,
+      "longitude": -97.62712653
+    },
+    "context_summary": "Residential plumbing permit issued on January 28, 2025, for the installation of an irrigation system at 2611 TOTLEY RD, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on February 25, 2025, with project ID 13457753."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-006966 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-06-24T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-12-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-20T00:00:00+00:00",
+        "issued": "2025-01-24T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13456973",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13456973"
+    },
+    "address": {
+      "line1": "2602 CHARWOOD DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40199651,
+      "longitude": -97.62432434
+    },
+    "context_summary": "Residential plumbing permit issued on January 24, 2025, for the installation of new irrigation at 2602 CHARWOOD DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on December 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-006335 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation for Lawn",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-28T00:00:00+00:00",
+        "completed": "2025-02-28T00:00:00+00:00",
+        "expires": "2025-02-28T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-06-11T00:00:00+00:00",
+        "issued": "2025-01-23T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13456308",
+      "master_permit": "13350313",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13456308"
+    },
+    "address": {
+      "line1": "11703 SHIMMERING SEA DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": "5",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0447091412",
+      "legal_description": "CASCADES AT ONION CREEK EAST PHS 2 BLK S LOT 21"
+    },
+    "location": {
+      "latitude": 30.12578387,
+      "longitude": -97.78685985
+    },
+    "context_summary": "Residential plumbing permit issued on January 23, 2025, for lawn irrigation at 11703 SHIMMERING SEA DR, Austin, under jurisdiction AUSTIN FULL PURPOSE, with completion and expiration on February 28, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-004820 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "NEW IRRIGATION SYSTEM",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-25T00:00:00+00:00",
+        "completed": "2025-04-25T00:00:00+00:00",
+        "expires": "2025-04-25T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2022-05-13T00:00:00+00:00",
+        "issued": "2025-01-17T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13454661",
+      "master_permit": "13042737",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13454661"
+    },
+    "address": {
+      "line1": "1401 S 6TH ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78704",
+      "council_district": "9",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0100031217",
+      "legal_description": "LOT 11-12 BLK B CAPITAL HEIGHTS PLUS 1/2 ADJ VAC ALLEY"
+    },
+    "location": {
+      "latitude": 30.2531796,
+      "longitude": -97.75999023
+    },
+    "context_summary": "Residential plumbing permit issued on January 17, 2025, for a new irrigation system at 1401 S 6TH ST, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a completion status of April 25, 2025, and expiring the same day."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-002284 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Fireline",
+      "description": "Install Underground Fire Line",
+      "status": {
+        "current": "Expired",
+        "date": "2025-07-17T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-07-16T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-08T00:00:00+00:00",
+        "issued": "2025-01-16T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13451791",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13451791"
+    },
+    "address": {
+      "line1": "9741 E US 290 HWY SVRD EB",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78724",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0226410208",
+      "legal_description": "ABS 690 SUR 54 SANDERS W H ACR 2.1545"
+    },
+    "location": {
+      "latitude": 30.33251851,
+      "longitude": -97.61291065
+    },
+    "context_summary": "Commercial plumbing permit issued in January 2025 for the installation of an underground fire line at 9741 E US 290 HWY SVRD EB, Austin, under jurisdiction AUSTIN 2 MILE ETJ, which expired on July 16, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-001633 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "install new irrigation system to new home",
+      "status": {
+        "current": "Final",
+        "date": "2025-04-01T00:00:00+00:00",
+        "completed": "2025-04-01T00:00:00+00:00",
+        "expires": "2025-04-01T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-07T00:00:00+00:00",
+        "issued": "2025-01-13T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13451018",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13451018"
+    },
+    "address": {
+      "line1": "17316 ASTRAL LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78653",
+      "council_district": "1",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0219650517",
+      "legal_description": "WHISPER VALLEY VILLAGE 1 PHS 4 BLK W LOT 22"
+    },
+    "location": {
+      "latitude": 30.29624369,
+      "longitude": -97.5453534
+    },
+    "context_summary": "Residential plumbing permit issued on January 13, 2025, for installing a new irrigation system at 17316 ASTRAL LN, Austin, under jurisdiction AUSTIN LTD, with a status marked as final and expiring on April 1, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "DS",
+      "type_description": "Driveway / Sidewalks",
+      "number": "2024-164679 DS",
+      "class": "Com. Sidewalk",
+      "class_mapped": "Commercial",
+      "work_class": "New",
+      "description": "Construct sidewalk of 30 LF. \n\nInspection fees paid 2024 002062 SSI",
+      "status": {
+        "current": "Active",
+        "date": "2025-02-06T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-08-05T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-12-18T00:00:00+00:00",
+        "issued": "2025-01-07T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13445439",
+      "master_permit": "12383388",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13445439"
+    },
+    "address": {
+      "line1": "600-617 SAN MARCOS ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": null,
+      "council_district": null,
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": null,
+      "legal_description": null
+    },
+    "location": {
+      "latitude": null,
+      "longitude": null
+    },
+    "context_summary": "Commercial sidewalk permit issued on January 7, 2025, for constructing a 30-foot sidewalk at 600-617 SAN MARCOS ST, Austin, under jurisdiction AUSTIN FULL PURPOSE, expiring on August 5, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-000063 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-06T00:00:00+00:00",
+        "completed": "2025-02-06T00:00:00+00:00",
+        "expires": "2025-02-06T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-07-09T00:00:00+00:00",
+        "issued": "2025-01-06T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13449214",
+      "master_permit": "13382456",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13449214"
+    },
+    "address": {
+      "line1": "7300 WOODFORD WAY",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0338080415",
+      "legal_description": "SKYLINE 2D PHS 1 BLK C LOT 17"
+    },
+    "location": {
+      "latitude": 30.14890817,
+      "longitude": -97.72769591
+    },
+    "context_summary": "Residential plumbing permit issued in January 2025 for installing an irrigation system at 7300 WOODFORD WAY, Austin, under jurisdiction AUSTIN LTD, with a final status as of February 6, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2025-000508 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "IRRIGATION FOR LAWN",
+      "status": {
+        "current": "Final",
+        "date": "2025-01-28T00:00:00+00:00",
+        "completed": "2025-01-28T00:00:00+00:00",
+        "expires": "2025-01-28T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2025-01-03T00:00:00+00:00",
+        "issued": "2025-01-06T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2025",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13449742",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13449742"
+    },
+    "address": {
+      "line1": "6413 TURNER COACH TRL",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78610",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0453070324",
+      "legal_description": "TURNERS CROSSING NORTH PHS 2 BLK E LOT 32"
+    },
+    "location": {
+      "latitude": 30.10926132,
+      "longitude": -97.7787762
+    },
+    "context_summary": "Residential plumbing permit issued on January 6, 2025, for lawn irrigation at 6413 TURNER COACH TRL, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion and expiration date of January 28, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-162686 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "New Irrigation Installation",
+      "status": {
+        "current": "Final",
+        "date": "2025-05-27T00:00:00+00:00",
+        "completed": "2025-05-27T00:00:00+00:00",
+        "expires": "2025-05-27T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-12-12T00:00:00+00:00",
+        "issued": "2024-12-31T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13443144",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13443144"
+    },
+    "address": {
+      "line1": "2309 LA CASA DR UNIT B",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78704",
+      "council_district": "5",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0400100852",
+      "legal_description": "LOT 3 BLK A M S Z ADDN"
+    },
+    "location": {
+      "latitude": 30.24862008,
+      "longitude": -97.78229313
+    },
+    "context_summary": "Residential plumbing permit issued on December 31, 2024, for a new irrigation installation at 2309 LA CASA DR UNIT B, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a final status and expiration on May 27, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-164123 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2025-01-30T00:00:00+00:00",
+        "completed": "2025-01-30T00:00:00+00:00",
+        "expires": "2025-01-30T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-12-17T00:00:00+00:00",
+        "issued": "2024-12-24T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13444820",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13444820"
+    },
+    "address": {
+      "line1": "2807 STEELS RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0254380710",
+      "legal_description": "HOWARD LANE PHS 1 BLK C LOT 10"
+    },
+    "location": {
+      "latitude": 30.39480198,
+      "longitude": -97.62461216
+    },
+    "context_summary": "Residential plumbing permit issued on December 24, 2024, for the installation of an irrigation system at 2807 STEELS RD, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a final status and expiration date of January 30, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-158463 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-07-15T00:00:00+00:00",
+        "completed": null,
+        "expires": "2026-01-11T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-12-04T00:00:00+00:00",
+        "issued": "2024-12-18T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13438323",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13438323"
+    },
+    "address": {
+      "line1": "2609 LOLLIE LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40259784,
+      "longitude": -97.62349515
+    },
+    "context_summary": "Residential plumbing permit issued on December 18, 2024, for the installation of new irrigation at 2609 LOLLIE LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on January 11, 2026."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-158462 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-07-15T00:00:00+00:00",
+        "completed": null,
+        "expires": "2026-01-11T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-12-04T00:00:00+00:00",
+        "issued": "2024-12-18T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13438322",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13438322"
+    },
+    "address": {
+      "line1": "2600 LOLLIE LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40315678,
+      "longitude": -97.62378405
+    },
+    "context_summary": "Residential plumbing permit issued on December 18, 2024, for the installation of a new irrigation system at 2600 LOLLIE LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with an expiration date of January 11, 2026."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-158456 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-06-24T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-12-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-12-03T00:00:00+00:00",
+        "issued": "2024-12-18T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13438316",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13438316"
+    },
+    "address": {
+      "line1": "2509 LOLLIE LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40285394,
+      "longitude": -97.62403054
+    },
+    "context_summary": "Residential plumbing permit issued on December 18, 2024, for the installation of new irrigation at 2509 LOLLIE LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on December 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-156244 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-06-24T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-12-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-26T00:00:00+00:00",
+        "issued": "2024-12-03T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13435893",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13435893"
+    },
+    "address": {
+      "line1": "2608 LOLLIE LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40296075,
+      "longitude": -97.62335803
+    },
+    "context_summary": "Residential plumbing permit issued on December 3, 2024, for the installation of a new irrigation system at 2608 LOLLIE LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on December 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-156245 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-06-24T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-12-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-26T00:00:00+00:00",
+        "issued": "2024-12-03T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13435894",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13435894"
+    },
+    "address": {
+      "line1": "13701 NEVELSON ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.4004286,
+      "longitude": -97.62249319
+    },
+    "context_summary": "Residential plumbing permit issued on December 3, 2024, for the installation of new irrigation at 13701 NEVELSON ST, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with an expiration date of December 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-155555 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-03-05T00:00:00+00:00",
+        "completed": "2025-03-05T00:00:00+00:00",
+        "expires": "2025-03-05T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2023-09-17T00:00:00+00:00",
+        "issued": "2024-12-02T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13435105",
+      "master_permit": "13250813",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13435105"
+    },
+    "address": {
+      "line1": "2905 KUHLMAN AVE BLDG 2",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78702",
+      "council_district": "1",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0206121802",
+      "legal_description": "LOT 8-A ROSEWOOD VILLAGE SEC 7"
+    },
+    "location": {
+      "latitude": 30.26684289,
+      "longitude": -97.71019763
+    },
+    "context_summary": "Residential plumbing permit issued on December 2, 2024, for the installation of an irrigation system at 2905 KUHLMAN AVE BLDG 2, Austin, under jurisdiction AUSTIN FULL PURPOSE, marked as final and expiring on March 5, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-150131 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "New irrigation installation",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-05T00:00:00+00:00",
+        "completed": "2025-02-05T00:00:00+00:00",
+        "expires": "2025-02-05T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-10T00:00:00+00:00",
+        "issued": "2024-12-01T00:00:00+00:00",
+        "issue_day": "SUNDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13428997",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13428997"
+    },
+    "address": {
+      "line1": "4309 MAUAI CV",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78749",
+      "council_district": "8",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0418281240",
+      "legal_description": "LOT 33 BLK HH MAPLE RUN SEC 5-A"
+    },
+    "location": {
+      "latitude": 30.20508331,
+      "longitude": -97.84975374
+    },
+    "context_summary": "Residential plumbing permit issued on December 1, 2024, for new irrigation installation at 4309 MAUAI CV, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a final status as of February 5, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-155971 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "IRRIGATION FOR LAWN",
+      "status": {
+        "current": "Final",
+        "date": "2025-01-29T00:00:00+00:00",
+        "completed": "2025-01-29T00:00:00+00:00",
+        "expires": "2025-01-29T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-25T00:00:00+00:00",
+        "issued": "2024-11-26T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13435571",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13435571"
+    },
+    "address": {
+      "line1": "6603 TURNER COACH TRL",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78610",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0453070334",
+      "legal_description": "TURNERS CROSSING NORTH PHS 2 BLK E LOT 22"
+    },
+    "location": {
+      "latitude": 30.10850895,
+      "longitude": -97.7775972
+    },
+    "context_summary": "Residential plumbing permit issued in November 2024 for lawn irrigation at 6603 TURNER COACH TRL, AUSTIN, under jurisdiction AUSTIN 2 MILE ETJ, finalized on January 29, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-150331 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Repair",
+      "description": "Install 25 waterline",
+      "status": {
+        "current": "Final",
+        "date": "2024-12-18T00:00:00+00:00",
+        "completed": "2024-12-18T00:00:00+00:00",
+        "expires": "2024-12-18T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-11T00:00:00+00:00",
+        "issued": "2024-11-26T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13429197",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13429197"
+    },
+    "address": {
+      "line1": "5712 ABBY ANN LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0443050224",
+      "legal_description": "LOT 22 BLK K ZACHARY SCOTT SUBD SEC 2"
+    },
+    "location": {
+      "latitude": 30.13965113,
+      "longitude": -97.76897388
+    },
+    "context_summary": "Residential plumbing permit issued on November 26, 2024, for the installation of a waterline at 5712 ABBY ANN LN, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a final status as of December 18, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-153002 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "SPRINKLER SYSTEM",
+      "status": {
+        "current": "Final",
+        "date": "2025-01-06T00:00:00+00:00",
+        "completed": "2025-01-06T00:00:00+00:00",
+        "expires": "2025-01-06T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-18T00:00:00+00:00",
+        "issued": "2024-11-22T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13432197",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13432197"
+    },
+    "address": {
+      "line1": "1513 IBERVILLE DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0274281601",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.44903909,
+      "longitude": -97.65812812
+    },
+    "context_summary": "Residential plumbing permit issued on November 22, 2024, for the installation of a sprinkler system at 1513 IBERVILLE DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, finalized and expiring on January 6, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2023-024423 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Irrigation",
+      "description": "Irrigation Lawn system\n2022-082105 W",
+      "status": {
+        "current": "Final",
+        "date": "2024-11-25T00:00:00+00:00",
+        "completed": "2024-11-25T00:00:00+00:00",
+        "expires": "2024-11-25T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2023-03-01T00:00:00+00:00",
+        "issued": "2024-11-20T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13101069",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13101069"
+    },
+    "address": {
+      "line1": "5724 E HOWARD LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78653",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0250430207",
+      "legal_description": "LOT A LESS 9.5723AC M & J ADDN SEC 3"
+    },
+    "location": {
+      "latitude": 30.37950762,
+      "longitude": -97.61022728
+    },
+    "context_summary": "Commercial plumbing permit issued on November 20, 2024, for an irrigation lawn system at 5724 E HOWARD LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on November 25, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2024-150386 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "1 HANGING SIGN BOX PANEL WITH PUSH THRU LETTERS (SIGN B)\n9021 GOODNIGHT RANCH BLVD AUSTIN TX 78747",
+      "status": {
+        "current": "Expired",
+        "date": "2025-05-18T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-05-17T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-13T00:00:00+00:00",
+        "issued": "2024-11-18T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13430078",
+      "master_permit": "13429252",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13430078"
+    },
+    "address": {
+      "line1": "9021 GOODNIGHT RANCH BLVD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0436013401",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.15252893,
+      "longitude": -97.7571063
+    },
+    "context_summary": "Commercial electrical sign permit issued on November 18, 2024, for a hanging sign box panel at 9021 GOODNIGHT RANCH BLVD, Austin, under jurisdiction AUSTIN FULL PURPOSE, expired on May 17, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-151832 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Fireline",
+      "description": "installation of underground fire line",
+      "status": {
+        "current": "Final",
+        "date": "2025-05-01T00:00:00+00:00",
+        "completed": "2025-05-01T00:00:00+00:00",
+        "expires": "2025-05-01T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2023-12-04T00:00:00+00:00",
+        "issued": "2024-11-14T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13430896",
+      "master_permit": "13400216",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13430896"
+    },
+    "address": {
+      "line1": "3435 PARKER LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78741",
+      "council_district": "3",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0311030304",
+      "legal_description": "1.675AC OF LOT 2 PARKER AT WOODWARD SUBD"
+    },
+    "location": {
+      "latitude": 30.21976589,
+      "longitude": -97.74279725
+    },
+    "context_summary": "Commercial plumbing permit issued for the installation of an underground fire line at 3435 PARKER LN, Austin, under jurisdiction AUSTIN FULL PURPOSE, applied for on December 4, 2023, issued on November 14, 2024, and set to expire on May 1, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-144320 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-12T00:00:00+00:00",
+        "completed": "2025-02-12T00:00:00+00:00",
+        "expires": "2025-02-12T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-10-28T00:00:00+00:00",
+        "issued": "2024-11-11T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13422431",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13422431"
+    },
+    "address": {
+      "line1": "13905 AUGUST GALLOP LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78617",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0328480202",
+      "legal_description": "LONGVIEW PHS 1 BLK 27 LOT 2"
+    },
+    "location": {
+      "latitude": 30.17212107,
+      "longitude": -97.60236158
+    },
+    "context_summary": "Residential plumbing permit issued on November 11, 2024, for installing a new irrigation system at 13905 AUGUST GALLOP LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status and expiration on February 12, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2024-137342 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "Austins Floor Store (Channel letters will mont on Raceway)",
+      "status": {
+        "current": "Final",
+        "date": "2024-11-14T00:00:00+00:00",
+        "completed": "2024-11-14T00:00:00+00:00",
+        "expires": "2024-11-14T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-10-11T00:00:00+00:00",
+        "issued": "2024-11-10T00:00:00+00:00",
+        "issue_day": "SUNDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13414620",
+      "master_permit": "13414384",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13414620"
+    },
+    "address": {
+      "line1": "7710 N FM 620 RD UNIT 620",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78726",
+      "council_district": "10",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0158300301",
+      "legal_description": null
+    },
+    "location": {
+      "latitude": 30.4107996,
+      "longitude": -97.85164103
+    },
+    "context_summary": "Commercial electrical permit issued on November 10, 2024, for the installation of channel letters on the wall at 7710 N FM 620 RD UNIT 620, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a completion status finalized on November 14, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-146515 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Irrigation System",
+      "status": {
+        "current": "Final",
+        "date": "2024-12-06T00:00:00+00:00",
+        "completed": "2024-12-06T00:00:00+00:00",
+        "expires": "2024-12-06T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-11-01T00:00:00+00:00",
+        "issued": "2024-11-08T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13424878",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13424878"
+    },
+    "address": {
+      "line1": "8504 BASIL HAYDEN LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0338060409",
+      "legal_description": "SKYLINE 2D PHS 1 BLK E LOT 9"
+    },
+    "location": {
+      "latitude": 30.14901193,
+      "longitude": -97.73049698
+    },
+    "context_summary": "Residential plumbing permit issued on November 8, 2024, for the installation of an irrigation system at 8504 BASIL HAYDEN LN, Austin, under jurisdiction AUSTIN LTD, with completion and expiration on December 6, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-144732 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "irrigation install",
+      "status": {
+        "current": "Final",
+        "date": "2024-12-13T00:00:00+00:00",
+        "completed": "2024-12-13T00:00:00+00:00",
+        "expires": "2024-12-13T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-03-06T00:00:00+00:00",
+        "issued": "2024-11-07T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13422889",
+      "master_permit": "13313504",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13422889"
+    },
+    "address": {
+      "line1": "5805 MOJAVE DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78745",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0414140704",
+      "legal_description": "LOT 4 BLK F OASIS VILLAGE SEC 2"
+    },
+    "location": {
+      "latitude": 30.20930792,
+      "longitude": -97.7903484
+    },
+    "context_summary": "Residential plumbing permit for irrigation install issued on November 7, 2024, at 5805 MOJAVE DR, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a final status as of December 13, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-144455 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-04T00:00:00+00:00",
+        "completed": "2025-02-04T00:00:00+00:00",
+        "expires": "2025-02-04T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-10-28T00:00:00+00:00",
+        "issued": "2024-11-06T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2025",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13422589",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13422589"
+    },
+    "address": {
+      "line1": "14005 EDNA MAXINE WALK",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78617",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0328480516",
+      "legal_description": "LONGVIEW PHS 1 BLK 30 LOT 12"
+    },
+    "location": {
+      "latitude": 30.170588,
+      "longitude": -97.60282591
+    },
+    "context_summary": "Residential plumbing permit issued on November 6, 2024, for the installation of a new irrigation system at 14005 EDNA MAXINE WALK, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status on February 4, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-127823 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "IRRIGATION FOR LAWN",
+      "status": {
+        "current": "Final",
+        "date": "2024-10-09T00:00:00+00:00",
+        "completed": "2024-10-09T00:00:00+00:00",
+        "expires": "2024-10-09T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-20T00:00:00+00:00",
+        "issued": "2024-09-20T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13403779",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13403779"
+    },
+    "address": {
+      "line1": "11501 MURANO DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0447071041",
+      "legal_description": "WEST BELLA FORTUNA PHS 1 (A SMALL LT SUBD) BLK L LOT 69"
+    },
+    "location": {
+      "latitude": 30.12759481,
+      "longitude": -97.78071217
+    },
+    "context_summary": "Residential plumbing permit issued on September 20, 2024, for lawn irrigation at 11501 MURANO DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status on October 9, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-125334 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2024-10-16T00:00:00+00:00",
+        "completed": "2024-10-16T00:00:00+00:00",
+        "expires": "2024-10-16T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-16T00:00:00+00:00",
+        "issued": "2024-09-19T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13400937",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13400937"
+    },
+    "address": {
+      "line1": "2600 SCHWARTZ LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0260400417",
+      "legal_description": "ENTRADA PHS 3 BLK L LOT 22"
+    },
+    "location": {
+      "latitude": 30.40794607,
+      "longitude": -97.61913715
+    },
+    "context_summary": "Residential plumbing permit issued on September 19, 2024, for installing a new irrigation system at 2600 SCHWARTZ LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a final status and expiration on October 16, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-124377 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "new installation",
+      "status": {
+        "current": "Final",
+        "date": "2024-10-15T00:00:00+00:00",
+        "completed": "2024-10-15T00:00:00+00:00",
+        "expires": "2024-10-15T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-05-06T00:00:00+00:00",
+        "issued": "2024-09-19T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13399859",
+      "master_permit": "13331066",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13399859"
+    },
+    "address": {
+      "line1": "15201 PURPLE DROP CV",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78617",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0338491631",
+      "legal_description": "SUN CHASE SOUTH SEC 8 BLK M LOT 26"
+    },
+    "location": {
+      "latitude": 30.14573858,
+      "longitude": -97.59769231
+    },
+    "context_summary": "Residential plumbing permit issued on September 19, 2024, for a new irrigation installation at 15201 PURPLE DROP CV, Austin, under jurisdiction AUSTIN LTD, with a completion date of October 15, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-125329 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2024-10-18T00:00:00+00:00",
+        "completed": "2024-10-18T00:00:00+00:00",
+        "expires": "2024-10-18T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-16T00:00:00+00:00",
+        "issued": "2024-09-19T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13400932",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13400932"
+    },
+    "address": {
+      "line1": "2513 SCHWARTZ LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0260400504",
+      "legal_description": "ENTRADA PHS 3 BLK Q LOT 52"
+    },
+    "location": {
+      "latitude": 30.40751901,
+      "longitude": -97.61962198
+    },
+    "context_summary": "Residential plumbing permit issued on September 19, 2024, for installing a new irrigation system at 2513 SCHWARTZ LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status on October 18, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-123768 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Active",
+        "date": "2025-06-12T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-12-09T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-12T00:00:00+00:00",
+        "issued": "2024-09-18T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13399156",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13399156"
+    },
+    "address": {
+      "line1": "2810 BARRY LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40116292,
+      "longitude": -97.62262167
+    },
+    "context_summary": "Residential plumbing permit issued on September 18, 2024, for the installation of new irrigation at 2810 BARRY LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, expiring on December 9, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2024-124529 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "Ascension G E01",
+      "status": {
+        "current": "Expired",
+        "date": "2025-03-17T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-03-16T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-17T00:00:00+00:00",
+        "issued": "2024-09-17T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13401924",
+      "master_permit": "13400038",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13401924"
+    },
+    "address": {
+      "line1": "1201 W 38TH ST",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78705",
+      "council_district": "10",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0219011902",
+      "legal_description": "LOT 1 SETON MEDICAL CENTER ADDN NO 2 PLUS ADJ VAC ALLEY"
+    },
+    "location": {
+      "latitude": 30.30490831,
+      "longitude": -97.74539945
+    },
+    "context_summary": "Commercial electrical sign permit issued on September 17, 2024, for wall work at 1201 W 38TH ST, Austin, under jurisdiction AUSTIN FULL PURPOSE, expired on March 16, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-123437 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Sprinkler System",
+      "status": {
+        "current": "Final",
+        "date": "2024-10-03T00:00:00+00:00",
+        "completed": "2024-10-03T00:00:00+00:00",
+        "expires": "2024-10-03T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-03-18T00:00:00+00:00",
+        "issued": "2024-09-13T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13398782",
+      "master_permit": "13316712",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13398782"
+    },
+    "address": {
+      "line1": "8600 LEFRAK DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0338130927",
+      "legal_description": "PROSPECT PARK PHS 1 BLK A LOT 18"
+    },
+    "location": {
+      "latitude": 30.14757992,
+      "longitude": -97.71288663
+    },
+    "context_summary": "Residential plumbing permit issued on September 13, 2024, for the installation of a sprinkler system at 8600 LEFRAK DR, Austin, under jurisdiction AUSTIN LTD, with a final status as of October 3, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-111338 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2024-09-12T00:00:00+00:00",
+        "completed": "2024-09-12T00:00:00+00:00",
+        "expires": "2024-09-12T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-08-30T00:00:00+00:00",
+        "issued": "2024-09-11T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13386034",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13386034"
+    },
+    "address": {
+      "line1": "6704 DEBCOE DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78749",
+      "council_district": "8",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0410381343",
+      "legal_description": "LOT 10 BLK C SHADOWRIDGE CROSSING SEC 2"
+    },
+    "location": {
+      "latitude": 30.22562645,
+      "longitude": -97.8760631
+    },
+    "context_summary": "Residential plumbing permit issued on September 11, 2024, for an irrigation system at 6704 DEBCOE DR, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a final status noted on September 12, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-122198 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2024-09-23T00:00:00+00:00",
+        "completed": "2024-09-23T00:00:00+00:00",
+        "expires": "2024-09-23T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-09T00:00:00+00:00",
+        "issued": "2024-09-11T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13397327",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13397327"
+    },
+    "address": {
+      "line1": "2609 SCHWARTZ LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0260400509",
+      "legal_description": "ENTRADA PHS 3 BLK Q LOT 57"
+    },
+    "location": {
+      "latitude": 30.40745538,
+      "longitude": -97.61882413
+    },
+    "context_summary": "Residential plumbing permit issued on September 11, 2024, for installing a new irrigation system at 2609 SCHWARTZ LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a final status as of September 23, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-114559 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Final",
+        "date": "2024-11-18T00:00:00+00:00",
+        "completed": "2024-11-18T00:00:00+00:00",
+        "expires": "2024-11-18T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-07T00:00:00+00:00",
+        "issued": "2024-09-10T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13389636",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13389636"
+    },
+    "address": {
+      "line1": "13806 DAISY DOG PATH",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40159266,
+      "longitude": -97.62330447
+    },
+    "context_summary": "Residential plumbing permit issued on September 10, 2024, for the installation of new irrigation at 13806 DAISY DOG PATH, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion date of November 18, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-112533 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2024-10-31T00:00:00+00:00",
+        "completed": "2024-10-31T00:00:00+00:00",
+        "expires": "2024-10-31T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-03T00:00:00+00:00",
+        "issued": "2024-09-05T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13387371",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13387371"
+    },
+    "address": {
+      "line1": "2009 WILLKOMEN WAY",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258381025",
+      "legal_description": "ENTRADA PHS 6 BLK T LOT 24"
+    },
+    "location": {
+      "latitude": 30.40603394,
+      "longitude": -97.62640035
+    },
+    "context_summary": "Residential plumbing permit issued on September 5, 2024, for installing a new irrigation system at 2009 WILLKOMEN WAY, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion status of October 31, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-112506 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system",
+      "status": {
+        "current": "Final",
+        "date": "2024-10-16T00:00:00+00:00",
+        "completed": "2024-10-16T00:00:00+00:00",
+        "expires": "2024-10-16T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-03T00:00:00+00:00",
+        "issued": "2024-09-05T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13387342",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13387342"
+    },
+    "address": {
+      "line1": "2012 WILLKOMEN WAY",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258381005",
+      "legal_description": "ENTRADA PHS 6 BLK T LOT 4"
+    },
+    "location": {
+      "latitude": 30.40627397,
+      "longitude": -97.62591447
+    },
+    "context_summary": "Residential plumbing permit issued on September 5, 2024, for installing a new irrigation system at 2012 WILLKOMEN WAY, Austin, under jurisdiction AUSTIN 2 MILE ETJ, finalized on October 16, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-112673 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installing a new irrigation system.",
+      "status": {
+        "current": "Final",
+        "date": "2024-09-16T00:00:00+00:00",
+        "completed": "2024-09-16T00:00:00+00:00",
+        "expires": "2024-09-16T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-09-04T00:00:00+00:00",
+        "issued": "2024-09-05T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13387515",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13387515"
+    },
+    "address": {
+      "line1": "2616 SCHWARTZ LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0260400413",
+      "legal_description": "ENTRADA PHS 3 BLK L LOT 18"
+    },
+    "location": {
+      "latitude": 30.40793567,
+      "longitude": -97.61851549
+    },
+    "context_summary": "Residential plumbing permit issued on September 5, 2024, for installing a new irrigation system at 2616 SCHWARTZ LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completed status as of September 16, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-108609 PP",
+      "class": "Commercial",
+      "class_mapped": "Commercial",
+      "work_class": "Irrigation",
+      "description": "IRRIGATION FOR BUSINESS",
+      "status": {
+        "current": "Final",
+        "date": "2025-02-26T00:00:00+00:00",
+        "completed": "2025-02-26T00:00:00+00:00",
+        "expires": "2025-02-26T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-08-26T00:00:00+00:00",
+        "issued": "2024-08-29T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13383035",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13383035"
+    },
+    "address": {
+      "line1": "9705 RESERVOIR CT",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78754",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0226410904",
+      "legal_description": "LOT 3 KAYE MARK SUBD NO 1"
+    },
+    "location": {
+      "latitude": 30.33198783,
+      "longitude": -97.62473967
+    },
+    "context_summary": "Commercial plumbing permit issued on August 29, 2024, for irrigation at 9705 RESERVOIR CT, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a final completion date of February 26, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-104988 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Final",
+        "date": "2024-09-19T00:00:00+00:00",
+        "completed": "2024-09-19T00:00:00+00:00",
+        "expires": "2024-09-19T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-08-16T00:00:00+00:00",
+        "issued": "2024-08-27T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13379050",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13379050"
+    },
+    "address": {
+      "line1": "4701 CLAWSON RD",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78745",
+      "council_district": "5",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0410120633",
+      "legal_description": "LOT 17 BLK A PARK FOREST SEC 6"
+    },
+    "location": {
+      "latitude": 30.22215384,
+      "longitude": -97.78629848
+    },
+    "context_summary": "Residential plumbing permit issued for installation of new irrigation at 4701 CLAWSON RD, Austin, under jurisdiction AUSTIN FULL PURPOSE, applied on August 16, 2024, issued on August 27, 2024, and finalized on September 19, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-108324 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "irrigation install on grass areas only ( back yard)",
+      "status": {
+        "current": "Expired",
+        "date": "2025-02-24T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-02-23T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-08-23T00:00:00+00:00",
+        "issued": "2024-08-27T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13382743",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13382743"
+    },
+    "address": {
+      "line1": "3806 HILLBROOK DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78731",
+      "council_district": "10",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0135040513",
+      "legal_description": "LOT 4 BLK E NORTHWEST HILLS SEC 4"
+    },
+    "location": {
+      "latitude": 30.34501583,
+      "longitude": -97.76368902
+    },
+    "context_summary": "Residential plumbing permit issued on August 27, 2024, for irrigation installation in the backyard at 3806 HILLBROOK DR, Austin, under jurisdiction AUSTIN FULL PURPOSE, which expired on February 23, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-104864 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Install Sprinkler System",
+      "status": {
+        "current": "Final",
+        "date": "2024-08-23T00:00:00+00:00",
+        "completed": "2024-08-23T00:00:00+00:00",
+        "expires": "2024-08-23T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-08-16T00:00:00+00:00",
+        "issued": "2024-08-22T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13378807",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13378807"
+    },
+    "address": {
+      "line1": "6410 TURNER COACH TRL",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78610",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0453070728",
+      "legal_description": "TURNERS CROSSING NORTH PHS 2 BLK F LOT 28"
+    },
+    "location": {
+      "latitude": 30.10974404,
+      "longitude": -97.77870967
+    },
+    "context_summary": "Residential plumbing permit issued on August 22, 2024, for installing a sprinkler system at 6410 TURNER COACH TRL, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status on August 23, 2024, and expiring the same day."
+  },
+  {
+    "permit": {
+      "type_code": "EP",
+      "type_description": "Electrical Permit",
+      "number": "2024-091311 EP",
+      "class": "Sign Permit",
+      "class_mapped": "Commercial",
+      "work_class": "Wall",
+      "description": "illuminated box sign flush mounted to wall",
+      "status": {
+        "current": "Expired",
+        "date": "2025-01-22T00:00:00+00:00",
+        "completed": null,
+        "expires": "2025-01-21T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-07-25T00:00:00+00:00",
+        "issued": "2024-07-25T00:00:00+00:00",
+        "issue_day": "THURSDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13364671",
+      "master_permit": "13363863",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13364671"
+    },
+    "address": {
+      "line1": "400 COMAL ST UNIT 101",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78702",
+      "council_district": "3",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0204061702",
+      "legal_description": "LOT 6 BLK 2 OLT 4 DIV O PECK R H"
+    },
+    "location": {
+      "latitude": 30.26141712,
+      "longitude": -97.72748249
+    },
+    "context_summary": "Commercial electrical permit issued on July 25, 2024, for an illuminated box sign flush mounted to the wall at 400 COMAL ST UNIT 101, Austin, under jurisdiction AUSTIN FULL PURPOSE, which expired on January 21, 2025."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-090674 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "SPRINKLER SYSTEM",
+      "status": {
+        "current": "Final",
+        "date": "2024-08-02T00:00:00+00:00",
+        "completed": "2024-08-02T00:00:00+00:00",
+        "expires": "2024-08-02T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-07-22T00:00:00+00:00",
+        "issued": "2024-07-22T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13363151",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13363151"
+    },
+    "address": {
+      "line1": "12713 BRAVE TENDERFOOT TRL",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78610",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0455051133",
+      "legal_description": "TURNERS CROSSING NORTH PHS 2 BLK H LOT 28"
+    },
+    "location": {
+      "latitude": 30.10589951,
+      "longitude": -97.77391145
+    },
+    "context_summary": "Residential plumbing permit issued on July 22, 2024, for the installation of a sprinkler system at 12713 BRAVE TENDERFOOT TRL, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final status on August 2, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-086162 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "IRRIGATION FOR LAWN",
+      "status": {
+        "current": "Final",
+        "date": "2024-09-26T00:00:00+00:00",
+        "completed": "2024-09-26T00:00:00+00:00",
+        "expires": "2024-09-26T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-07-11T00:00:00+00:00",
+        "issued": "2024-07-15T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13357976",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13357976"
+    },
+    "address": {
+      "line1": "3006 YELLOWPINE TER",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78757",
+      "council_district": "7",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0238020436",
+      "legal_description": "LOT 20 BLK T ALLANDALE PARK SEC 6"
+    },
+    "location": {
+      "latitude": 30.35480436,
+      "longitude": -97.74114306
+    },
+    "context_summary": "Residential plumbing permit issued on July 15, 2024, for lawn irrigation at 3006 YELLOWPINE TER, Austin, under jurisdiction AUSTIN FULL PURPOSE, with a final status and expiry date of September 26, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-086349 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "IRRIGATION FOR LAWN",
+      "status": {
+        "current": "Final",
+        "date": "2024-08-01T00:00:00+00:00",
+        "completed": "2024-08-01T00:00:00+00:00",
+        "expires": "2024-08-01T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-07-12T00:00:00+00:00",
+        "issued": "2024-07-12T00:00:00+00:00",
+        "issue_day": "FRIDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13358187",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13358187"
+    },
+    "address": {
+      "line1": "11524 COMANO DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0447071018",
+      "legal_description": "LOT 13 BLK L BELLA FORTUNA PHS 2 SUBD"
+    },
+    "location": {
+      "latitude": 30.12480232,
+      "longitude": -97.78052646
+    },
+    "context_summary": "Residential plumbing permit issued on July 12, 2024, for irrigation of lawn at 11524 COMANO DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with final completion and expiration on August 1, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-082761 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "irrigation install\nETJ NO BP",
+      "status": {
+        "current": "Final",
+        "date": "2024-08-05T00:00:00+00:00",
+        "completed": "2024-08-05T00:00:00+00:00",
+        "expires": "2024-08-05T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-07-02T00:00:00+00:00",
+        "issued": "2024-07-03T00:00:00+00:00",
+        "issue_day": "WEDNESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13354083",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13354083"
+    },
+    "address": {
+      "line1": "8008 BRUMBY DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78747",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0334001119",
+      "legal_description": "JENNINGS PLACE (A SMALL LT SUBD) BLK B LOT 19"
+    },
+    "location": {
+      "latitude": 30.15693796,
+      "longitude": -97.75016215
+    },
+    "context_summary": "Residential plumbing permit issued on July 3, 2024, for irrigation installation at 8008 BRUMBY DR, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion date of August 5, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-081506 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Installation of New Irrigation",
+      "status": {
+        "current": "Final",
+        "date": "2024-08-29T00:00:00+00:00",
+        "completed": "2024-08-29T00:00:00+00:00",
+        "expires": "2024-08-29T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2024-06-29T00:00:00+00:00",
+        "issued": "2024-07-02T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13352678",
+      "master_permit": null,
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13352678"
+    },
+    "address": {
+      "line1": "2800 LOLLIE LN",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78660",
+      "council_district": null,
+      "jurisdiction": "AUSTIN 2 MILE ETJ"
+    },
+    "parcel": {
+      "tcad_id": "0258401801",
+      "legal_description": "BANYAN PFLUGERVILLE BLK A LOT 1"
+    },
+    "location": {
+      "latitude": 30.40244956,
+      "longitude": -97.62233482
+    },
+    "context_summary": "Residential plumbing permit issued on July 2, 2024, for the installation of new irrigation at 2800 LOLLIE LN, Austin, under jurisdiction AUSTIN 2 MILE ETJ, with a completion and expiration date of August 29, 2024."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-082460 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "Irrigation install",
+      "status": {
+        "current": "Final",
+        "date": "2024-08-22T00:00:00+00:00",
+        "completed": "2024-08-22T00:00:00+00:00",
+        "expires": "2024-08-22T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2023-10-17T00:00:00+00:00",
+        "issued": "2024-07-02T00:00:00+00:00",
+        "issue_day": "TUESDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13353721",
+      "master_permit": "13238222",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13353721"
+    },
+    "address": {
+      "line1": "9609 BOATHOUSE DR",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78744",
+      "council_district": "2",
+      "jurisdiction": "AUSTIN LTD"
+    },
+    "parcel": {
+      "tcad_id": "0340150512",
+      "legal_description": "PROSPECT PARK PHS 1 BLK M LOT 12"
+    },
+    "location": {
+      "latitude": 30.14340273,
+      "longitude": -97.7052691
+    },
+    "context_summary": "Residential plumbing permit issued on July 2, 2024, for irrigation installation at 9609 BOATHOUSE DR, Austin, under jurisdiction AUSTIN LTD, with a final status and expiration on the same day."
+  },
+  {
+    "permit": {
+      "type_code": "PP",
+      "type_description": "Plumbing Permit",
+      "number": "2024-081029 PP",
+      "class": "Residential",
+      "class_mapped": "Residential",
+      "work_class": "Irrigation",
+      "description": "New irrigation system installation",
+      "status": {
+        "current": "Final",
+        "date": "2024-07-25T00:00:00+00:00",
+        "completed": "2024-07-25T00:00:00+00:00",
+        "expires": "2024-07-25T00:00:00+00:00"
+      },
+      "dates": {
+        "applied": "2023-07-14T00:00:00+00:00",
+        "issued": "2024-07-01T00:00:00+00:00",
+        "issue_day": "MONDAY",
+        "calendar_year": "2024",
+        "fiscal_year": "2024",
+        "recent_30_days": "No"
+      },
+      "method": "Permit Center",
+      "project_id": "13352094",
+      "master_permit": "13214129",
+      "link": "https://abc.austintexas.gov/web/permit/public-search-other?t_detail=1&t_selected_folderrsn=13352094"
+    },
+    "address": {
+      "line1": "117 DUNLAP ST BLDG 1",
+      "city": "AUSTIN",
+      "state": "TX",
+      "zip": "78704",
+      "council_district": "3",
+      "jurisdiction": "AUSTIN FULL PURPOSE"
+    },
+    "parcel": {
+      "tcad_id": "0409050506",
+      "legal_description": "LOT 2 CAROTHERS V M SUBD"
+    },
+    "location": {
+      "latitude": 30.22444318,
+      "longitude": -97.76404645
+    },
+    "context_summary": "Residential plumbing permit issued on July 1, 2024, for the installation of a new irrigation system at 117 DUNLAP ST BLDG 1, Austin, under jurisdiction AUSTIN FULL PURPOSE, with status marked as final and expiring on July 25, 2024."
+  }
+]
